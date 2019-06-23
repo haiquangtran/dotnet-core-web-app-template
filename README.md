@@ -5,6 +5,16 @@ The base web project template creates a .NET Core Web API with intent to be cons
 
 This project can be imported as a Visual Studio template for scaffolding for quick startup.
 
+## Prerequisites
+- .NET Core 2.2
+- [EditorConfig](https://editorconfig.org/)
+- IDE/Text editor (Recommended Visual Studio)
+
+## Frameworks and Tools
+- .NET Core 2.2
+- [EditorConfig](https://editorconfig.org/)
+- AutoMapper 
+
 ## Design Patterns
 - [Clean architecture](https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures#clean-architecture) 
 - Dependency Injection
