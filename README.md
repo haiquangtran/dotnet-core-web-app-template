@@ -22,7 +22,8 @@ This project can be imported as a Visual Studio template for scaffolding for qui
 - Root directory structure follows a [convention](https://gist.github.com/davidfowl/ed7564297c61fe9ab814) followed by Microsoft 
 
 ## Getting Started
-TODO:
+1. Open the solution
+2. Change all the folder names and namespaces to the desired names. i.e. [Company].[Project].Api, where [Company] is the company name and [Project] is the project name.
 
 ## How to export the Web App Template as a Visual Studio Template
 1. Open this project in Visual Studio
