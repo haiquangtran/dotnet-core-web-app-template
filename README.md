@@ -1,4 +1,6 @@
-# Base .NET Core Web App Template [Currently In Development]
+# Base .NET Core Web App Template
+
+**[Currently In Development]**
 
 A base .NET Core project template that scaffolds the structure of a web application enabling you to get started with web applications quickly.
 The base web project template creates a .NET Core Web API with intent to be consumed by a separate web front-end. This base project will use Angular for the web front-end but can be switched out for React etc.
